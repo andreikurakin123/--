@@ -1,4 +1,4 @@
--hospital_bot/
+#-hospital_bot/
 │
 ├── bot.py              # Точка входа
 ├── db.py               # Работа с базой (заменяет database.py)
