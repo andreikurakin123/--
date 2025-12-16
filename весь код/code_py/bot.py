@@ -8,7 +8,7 @@ import buttons
 
 
 async def main():
-    bot = Bot(token="7730230989:AAFsiiOoyRsoDb3RP9ad1GhQeK_nHqZNGs0")
+    bot = Bot(token="YOUR TOKEN")
     dp = Dispatcher()
 
     await init_db()
